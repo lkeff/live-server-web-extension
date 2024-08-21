@@ -1,0 +1,29 @@
+ESLint Report
+
+File: /Users/kthlke/Documents/GitHub/live-server-web-extension/reload.js
+  [1, 1] Unnecessary semicolon. (no-extra-semi)
+  [7, 9] Variable 'socket' should be initialized on declaration. (init-declarations)
+  [28, 5] Function 'reloadWindow' has a complexity of 7. Maximum allowed is 6. (complexity)
+  [31, 22] Expected '===' and instead saw '=='. (eqeqeq)
+  [31, 46] Expected '===' and instead saw '=='. (eqeqeq)
+  [38, 6] Expected blank line before this statement. (padding-line-between-statements)
+  [38, 6] Unnecessary semicolon. (no-extra-semi)
+  [43, 13] Unexpected console statement. (no-console)
+  [43, 25] Strings must use singlequote. (quotes)
+  [50, 5] 'chrome' is not defined. (no-undef)
+  [60, 5] 'chrome' is not defined. (no-undef)
+
+File: /Users/kthlke/Documents/GitHub/live-server-web-extension/background.js
+  [1, 1] Unnecessary semicolon. (no-extra-semi)
+  [8, 9] 'chrome' is not defined. (no-undef)
+  [10, 17] 'chrome' is not defined. (no-undef)
+  [22, 40] 'data' is defined but never used. (no-unused-vars)
+  [22, 40] 'data' is defined but never used. (@typescript-eslint/no-unused-vars)
+  [27, 5] 'chrome' is not defined. (no-undef)
+
+File: /Users/kthlke/Documents/GitHub/live-server-web-extension/popup/popup.js
+  [1, 1] Unnecessary semicolon. (no-extra-semi)
+  [21, 9] 'chrome' is not defined. (no-undef)
+  [39, 9] 'chrome' is not defined. (no-undef)
+  [42, 13] Unexpected console statement. (no-console)
+

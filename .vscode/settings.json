@@ -6,6 +6,8 @@
         "files.trimTrailingWhitespace": false,
         "editor.minimap.enabled": false
     },
+    "editor.acceptSuggestionOnEnter": "on",
+    "AllAutocomplete.showCurrentDocument": false,
     // "liveServer.settings.proxy": {
     //     "enable": true,
     //     "baseUri": "/",
